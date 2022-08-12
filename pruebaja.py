@@ -8,5 +8,8 @@ if x == 1:
         x = x+1
         y = y+5
         print(y)
+        if y == 8:
+            print(" el metodo Y llego a 8")
+        
 
 
