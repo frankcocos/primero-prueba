@@ -6,5 +6,7 @@ if x == 1:
     while x < 10:
         print("Hola soy un texto lageador")
         x = x+1
+        y = y+5
+        print(y)
 
 
